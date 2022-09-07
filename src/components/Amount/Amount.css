@@ -1,0 +1,10 @@
+.inputContainer {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.converted {
+  font-size: 18px;
+  margin-top: 22px;
+}

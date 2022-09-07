@@ -1,0 +1,12 @@
+.currency{
+display: flex;
+align-items:center;
+}
+
+.currency img{
+    margin-right: 30px;
+}
+
+.allCurrencies{
+    margin-top: 16px;
+}
